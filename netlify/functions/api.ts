@@ -1,8 +1,4 @@
 //- ./index.ts
-import './models/LifeInsurance';
-import './models/Takaful';
-import './models/User';
-import './models/Specialist';
 
 import express from 'express'
 import mongoose from 'mongoose'
